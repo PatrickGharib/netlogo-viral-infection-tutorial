@@ -92,6 +92,23 @@ pfu
 pfu
 HORIZONTAL
 
+BUTTON
+74
+11
+137
+44
+NIL
+go\n
+T
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
 @#$#@#$#@
 ## WHAT IS IT?
 
