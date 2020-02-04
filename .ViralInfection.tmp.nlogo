@@ -32,6 +32,7 @@ to go
   ]
   tick-advance 1 ; advance time by one step
 end
+
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
@@ -86,7 +87,7 @@ pfu
 pfu
 1
 100
-1.0
+8.0
 1
 1
 pfu
